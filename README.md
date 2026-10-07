@@ -83,6 +83,8 @@ Este código en Python no solo resuelve el problema, si no que implementa:
 
 ## Declaración del uso de documentación, herramientas externas o IA generativa.
 
-    *Github Copilot* : Ocupé copilot como asistente de creación de código
-    *Gemini* : Discutimos temas sobre Clean Code, Chain of Responsability y Arquitectura de Software
-    *Claude Code* : Generación de diagramas de clases, diagrama de secuencia y matriz de pruebas visual.
+| Herramienta        | Uso en este ejercicio                                                                      |
+| ------------------ | ------------------------------------------------------------------------------------------ |
+| **GitHub Copilot** | Asistente para escribir código.                                                            |
+| **Gemini**         | Discusión de Clean Code, el patrón Chain of Responsibility y arquitectura de software.     |
+| **Claude Code**    | Generación del diagrama de clases, el diagrama de secuencia y la matriz visual de pruebas. |
