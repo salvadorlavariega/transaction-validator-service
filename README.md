@@ -61,6 +61,14 @@ Este código en Python no solo resuelve el problema, si no que implementa:
 - Testeabilidad: No quiero imaginar el resultado de sonarqube diciendo que dentro del if anidado
   te falta probar un caso, o que ningun test entra al else del tercer IF, con Chain of Responsability puedes probar cada regla de forma aislada.
 
+## Instrucciones de ejecución
+
+```shell
+python -m unittest -v test_transaction_pipeline.py
+```
+
+La opción -v muestra el nombre de cada test y si pasó.
+
 ### Diagrama de clases
 
 ![Diagrama de clases](docs/diagrama-clases.png)
